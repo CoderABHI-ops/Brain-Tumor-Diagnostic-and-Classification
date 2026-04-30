@@ -7,7 +7,7 @@ This repository contains a dual-pipeline Machine Learning architecture designed 
 The project is divided into two architectural approaches:
 
 1. **Custom CNN (Scratch Model):** A progressively tuned convolutional neural network built from the ground up.
-2. **Transfer Learning (VGG16):** An optimized VGG-16 architecture (16 layers: 13 Conv + 3 Fully Connected) utilizing layer unfreezing (fine-tuning) for highly accurate medical feature extraction.
+2. **Transfer Learning (VGG16) :** An optimized VGG-16 architecture (16 layers: 13 Conv + 3 Fully Connected) utilizing layer unfreezing (fine-tuning) for highly accurate medical feature extraction.
 
 ## Dataset Details
 
